@@ -3,7 +3,7 @@
     <IsPackable>true</IsPackable>
     <PackageId>Gocgun.Cache</PackageId>
     <Description>Byte cache with in-process L1, Redis L2, and pub/sub L1 invalidation.</Description>
-    <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

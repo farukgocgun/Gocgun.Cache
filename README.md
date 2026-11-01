@@ -10,7 +10,7 @@ L1 is `IMemoryCache`. L2 is `StackExchange.Redis` 2.x. `RemoveAsync` deletes bot
 
 There are no cache tags, no stampede lock, and no tenant prefix. A `KeyPrefix` option is an application prefix only.
 
-License: AGPL-3.0-only. See `LICENSE`. Copyright holder exception: `LICENSE-EXCEPTION`.
+License: MIT. See `LICENSE`.
 
 ## Publishing to nuget.org
 
