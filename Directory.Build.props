@@ -17,7 +17,7 @@
     <Deterministic>true</Deterministic>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <Authors>gocgun</Authors>
-    <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/farukgocgun/Gocgun.Cache</PackageProjectUrl>
     <RepositoryUrl>https://github.com/farukgocgun/Gocgun.Cache</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
